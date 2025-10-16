@@ -103,8 +103,8 @@ _Add screenshots of your app UI here once available._
 ---
 
 ## 👨‍💻 Author
-**Arron Kian Parejas**  
-📧 [parejasarronkian@gmail.com](mailto:parejasarronkian@gmail.com)
+**Josh Danielle Miranda**  
+📧 [joshdaniellemiranda@gmail.com](mailto:joshdaniellemiranda@gmail.com)
 
 ---
 
